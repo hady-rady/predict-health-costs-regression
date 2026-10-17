@@ -25,6 +25,9 @@ The model achieved a **Mean Absolute Error (MAE) of 1870.94** on the test datase
 
 ## Results
 Successfully completed the freeCodeCamp Predict Healthcare Costs with Regression challenge.
+### Model Evaluation Result
+
+![Health Costs Regression Results](health_costs_regression_results.png)
 
 ## How to Run
 Open `predict_health_costs_with_regression.ipynb` in Google Colab or Jupyter Notebook and run the cells in order.
